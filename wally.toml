@@ -1,0 +1,7 @@
+[package]
+name = "dervex/advancedspring"
+description = "Advanced Spring lets you create spring class for every major Roblox & Luau datatype"
+version = "1.0.0"
+license = "Apache-2.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
